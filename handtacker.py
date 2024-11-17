@@ -1,3 +1,6 @@
+#Hello Everyone! Excuse the spaghetti code (I'm sure there's a neater way of doing this)
+
+#Libraries to install
 import cv2
 import mediapipe as mp
 import pyautogui
